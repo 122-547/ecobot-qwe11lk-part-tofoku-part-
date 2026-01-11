@@ -1,0 +1,512 @@
+2026-01-10 00:03:17,807 | root | INFO | Cogs loaded!
+2026-01-10 00:03:17,809 | disnake.client | INFO | logging in using static token
+2026-01-10 00:03:18,840 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:03:19,353 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-0l1l",{"micros":315072,"calls":["id_created",{"micros":543,"calls":[]},"session_lookup_time",{"micros":3124,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-11",{"micros":310954,"calls":["start_session",{"micros":300283,"calls":["discord-api-rpc-5b74c95774-p8qpw",{"micros":259648,"calls":["get_user",{"micros":180306},"get_guilds",{"micros":3031},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":612},"apex_experiments",{"micros":32172},"user_activities",{"micros":4},"played_application_ids",{"micros":2},"linked_users",{"micros":2}]}]},"starting_guild_connect",{"micros":33,"calls":[]},"presence_started",{"micros":379,"calls":[]},"guilds_started",{"micros":82,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10113,"calls":[]},"connect_finished",{"micros":10127,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 06d80af802034fe1c8d99da6b3b65f0a, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 00:03:21,374 | root | INFO | Bot is ready!
+2026-01-10 00:03:21,382 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:03:21,387 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:03:21,388 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:03:21,388 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:03:27,834 | views.inventoryView | ERROR | Inventory view function error: 'MyRolesView' object has no attribute 'autopay'
+2026-01-10 00:03:32,698 | views.inventoryView | ERROR | Inventory view function error: 'MyRolesView' object has no attribute 'autopay'
+2026-01-10 00:07:17,764 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:07:17,764 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:07:17,764 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:07:17,921 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:07:29,691 | root | INFO | Cogs loaded!
+2026-01-10 00:07:29,691 | disnake.client | INFO | logging in using static token
+2026-01-10 00:07:30,583 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:07:30,996 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-f6pp",{"micros":236714,"calls":["id_created",{"micros":438,"calls":[]},"session_lookup_time",{"micros":249,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-63",{"micros":235711,"calls":["start_session",{"micros":231787,"calls":["discord-api-rpc-5b74c95774-pt78g",{"micros":60052,"calls":["get_user",{"micros":10571},"get_guilds",{"micros":2401},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":384},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":536},"apex_experiments",{"micros":163495},"user_activities",{"micros":7},"played_application_ids",{"micros":4},"linked_users",{"micros":4}]}]},"starting_guild_connect",{"micros":24,"calls":[]},"presence_started",{"micros":313,"calls":[]},"guilds_started",{"micros":62,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3465,"calls":[]},"connect_finished",{"micros":3479,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: cfeb191e0bf2b965deae2ebe587191ed, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 00:07:33,078 | root | INFO | Bot is ready!
+2026-01-10 00:07:33,078 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:07:33,078 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:07:33,078 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:07:33,078 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:07:41,234 | views.inventoryView | ERROR | My roles view callback function error: 'int' object is not subscriptable
+2026-01-10 00:08:42,293 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:08:42,294 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:08:42,294 | disnake.client | INFO | Cleaning up after 3 tasks.
+2026-01-10 00:08:42,468 | disnake.client | INFO | All tasks finished cancelling.
+2026-01-10 00:08:42,468 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:08:48,445 | root | INFO | Cogs loaded!
+2026-01-10 00:08:48,445 | disnake.client | INFO | logging in using static token
+2026-01-10 00:08:49,642 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:08:50,075 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-7tvt",{"micros":244893,"calls":["id_created",{"micros":431,"calls":[]},"session_lookup_time",{"micros":404,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-183",{"micros":242023,"calls":["start_session",{"micros":232119,"calls":["discord-api-rpc-5b74c95774-kzx8h",{"micros":189359,"calls":["get_user",{"micros":10258},"get_guilds",{"micros":6734},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":3069},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":594},"apex_experiments",{"micros":31519},"user_activities",{"micros":6},"played_application_ids",{"micros":10},"linked_users",{"micros":4}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":8398,"calls":[]},"guilds_started",{"micros":60,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1351,"calls":[]},"connect_finished",{"micros":1367,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":34,"calls":[]}]}]}] (Session ID: ee2cb45a370f795cb193b0db0ea24659, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 00:08:52,090 | root | INFO | Bot is ready!
+2026-01-10 00:08:52,097 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:08:52,101 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:08:52,102 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:08:52,102 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:08:58,875 | views.inventoryView | ERROR | My roles view callback function error: row cannot be negative or greater than or equal to 5
+2026-01-10 00:11:21,036 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:11:21,036 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:11:21,036 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:11:21,224 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:11:27,307 | root | INFO | Cogs loaded!
+2026-01-10 00:11:27,308 | disnake.client | INFO | logging in using static token
+2026-01-10 00:11:28,426 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:11:28,738 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-f5pt",{"micros":108914,"calls":["id_created",{"micros":615,"calls":[]},"session_lookup_time",{"micros":260,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-69",{"micros":107703,"calls":["start_session",{"micros":89826,"calls":["discord-api-rpc-5b74c95774-2wlnm",{"micros":49984,"calls":["get_user",{"micros":6281},"get_guilds",{"micros":3484},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":3486},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":597},"apex_experiments",{"micros":32064},"user_activities",{"micros":7},"played_application_ids",{"micros":4},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":8833,"calls":[]},"guilds_started",{"micros":60,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":0,"calls":[]},"presence_connect",{"micros":8890,"calls":[]},"connect_finished",{"micros":8903,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":36,"calls":[]}]}]}] (Session ID: 201bb227e9e539c2444309559476b561, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 00:11:30,731 | root | INFO | Bot is ready!
+2026-01-10 00:11:30,737 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:11:30,743 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:11:30,743 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:11:30,743 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:12:26,281 | views.inventoryView | ERROR | Personal role menu callback function error: get_role_data() missing 1 required positional argument: 'settings'
+2026-01-10 00:12:30,936 | views.inventoryView | ERROR | Personal role menu callback function error: get_role_data() missing 1 required positional argument: 'settings'
+2026-01-10 00:13:42,815 | views.inventoryView | ERROR | Off autopay function error: get_role_data() missing 1 required positional argument: 'settings'
+2026-01-10 00:14:22,145 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:14:22,145 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:14:22,145 | disnake.client | INFO | Cleaning up after 3 tasks.
+2026-01-10 00:14:22,317 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:14:28,372 | root | INFO | Cogs loaded!
+2026-01-10 00:14:28,373 | disnake.client | INFO | logging in using static token
+2026-01-10 00:14:39,740 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:14:40,071 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-cnmz",{"micros":95617,"calls":["id_created",{"micros":582,"calls":[]},"session_lookup_time",{"micros":1097,"calls":[]},"session_lookup_finished",{"micros":9,"calls":[]},"discord-sessions-prd-2-23",{"micros":92732,"calls":["start_session",{"micros":85840,"calls":["discord-api-rpc-5b74c95774-sbkc5",{"micros":34557,"calls":["get_user",{"micros":6219},"get_guilds",{"micros":2905},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":425},"apex_experiments",{"micros":42059},"user_activities",{"micros":6},"played_application_ids",{"micros":2},"linked_users",{"micros":2}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":1840,"calls":[]},"guilds_started",{"micros":59,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":4889,"calls":[]},"connect_finished",{"micros":4903,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":40,"calls":[]}]}]}] (Session ID: 376dd34f8dd09115b4b04b49b8785b6e, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 00:14:42,096 | root | INFO | Bot is ready!
+2026-01-10 00:14:42,229 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:14:42,229 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:14:42,229 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:14:42,229 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:14:58,368 | cogs.shop | ERROR | Shop command function error: object list can't be used in 'await' expression
+2026-01-10 00:15:11,078 | methods.pay_arend | ERROR | Pay arend function error: parameters are of unsupported type
+2026-01-10 00:15:11,489 | views.inventoryView | ERROR | Personal role menu callback function error: This interaction has already been responded to before
+2026-01-10 00:20:10,943 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:20:10,943 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:20:10,944 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:20:11,123 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:20:18,850 | root | INFO | Cogs loaded!
+2026-01-10 00:20:18,850 | disnake.client | INFO | logging in using static token
+2026-01-10 00:20:39,860 | disnake.client | ERROR | Attempting a reconnect in 0.57s
+Traceback (most recent call last):
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\asyncio\tasks.py", line 476, in wait_for
+    return fut.result()
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\aiohttp\client.py", line 821, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 525, message='Invalid response status', url=URL('wss://gateway.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2026-01-10 00:20:40,756 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:20:41,090 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-hd2z",{"micros":132430,"calls":["id_created",{"micros":413,"calls":[]},"session_lookup_time",{"micros":275,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-2-125",{"micros":131437,"calls":["start_session",{"micros":130315,"calls":["discord-api-rpc-5b74c95774-8sc5z",{"micros":64536,"calls":["get_user",{"micros":17918},"get_guilds",{"micros":5266},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":8},"pending_payments",{"micros":514},"apex_experiments",{"micros":55172},"user_activities",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":4}]}]},"starting_guild_connect",{"micros":57,"calls":[]},"presence_started",{"micros":445,"calls":[]},"guilds_started",{"micros":55,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":502,"calls":[]},"connect_finished",{"micros":515,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: b221586fb6903639213b20341c655fca, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 00:20:43,112 | root | INFO | Bot is ready!
+2026-01-10 00:20:43,112 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:20:43,112 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:20:43,112 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:20:43,112 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:21:31,004 | views.inventoryView | ERROR | Personal role menu callback function error: This interaction has already been responded to before
+2026-01-10 00:25:22,572 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:25:22,572 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:25:22,572 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:25:22,754 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:25:32,782 | root | INFO | Cogs loaded!
+2026-01-10 00:25:32,782 | disnake.client | INFO | logging in using static token
+2026-01-10 00:25:33,759 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:25:34,061 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-qs24",{"micros":120747,"calls":["id_created",{"micros":424,"calls":[]},"session_lookup_time",{"micros":278,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-96",{"micros":119763,"calls":["start_session",{"micros":98914,"calls":["discord-api-rpc-5b74c95774-2pld5",{"micros":54243,"calls":["get_user",{"micros":11019},"get_guilds",{"micros":2892},"send_scheduled_deletion_message",{"micros":22},"guild_join_requests",{"micros":4},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":586},"apex_experiments",{"micros":35110},"user_activities",{"micros":6},"played_application_ids",{"micros":3},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":27,"calls":[]},"presence_started",{"micros":289,"calls":[]},"guilds_started",{"micros":55,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":20413,"calls":[]},"connect_finished",{"micros":20423,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":41,"calls":[]}]}]}] (Session ID: ba12779c4d84aad41e4ae3c6b0813bb4, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 00:25:36,078 | root | INFO | Bot is ready!
+2026-01-10 00:25:36,078 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:25:36,078 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:25:36,078 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:25:36,078 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:27:28,722 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:27:28,722 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:27:28,723 | disnake.client | INFO | Cleaning up after 5 tasks.
+2026-01-10 00:27:28,904 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:27:48,741 | root | INFO | Cogs loaded!
+2026-01-10 00:27:48,741 | disnake.client | INFO | logging in using static token
+2026-01-10 00:27:49,832 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:27:50,224 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-ht74",{"micros":98055,"calls":["id_created",{"micros":575,"calls":[]},"session_lookup_time",{"micros":2056,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-112",{"micros":95009,"calls":["start_session",{"micros":77698,"calls":["discord-api-rpc-5b74c95774-r44lv",{"micros":38085,"calls":["get_user",{"micros":5019},"get_guilds",{"micros":2109},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":1215},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":682},"apex_experiments",{"micros":32185},"user_activities",{"micros":6},"played_application_ids",{"micros":3},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":28,"calls":[]},"presence_started",{"micros":8707,"calls":[]},"guilds_started",{"micros":63,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":8452,"calls":[]},"connect_finished",{"micros":8464,"calls":[]},"build_ready",{"micros":9,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 3b13f9d6eeb2c0bb4670b72dcd793fc6, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 00:27:52,257 | root | INFO | Bot is ready!
+2026-01-10 00:27:52,257 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:27:52,257 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:27:52,257 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:27:52,257 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:28:41,610 | views.inventoryView | ERROR | Personal role menu callback function error: This interaction has already been responded to before
+2026-01-10 00:29:31,299 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:29:31,299 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:29:31,299 | disnake.client | INFO | Cleaning up after 16 tasks.
+2026-01-10 00:29:31,477 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:30:21,651 | root | INFO | Cogs loaded!
+2026-01-10 00:30:21,651 | disnake.client | INFO | logging in using static token
+2026-01-10 00:30:42,954 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:30:43,298 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-xm43",{"micros":149147,"calls":["id_created",{"micros":760,"calls":[]},"session_lookup_time",{"micros":1001,"calls":[]},"session_lookup_finished",{"micros":23,"calls":[]},"discord-sessions-prd-2-100",{"micros":146916,"calls":["start_session",{"micros":145469,"calls":["discord-api-rpc-5b74c95774-7jwn5",{"micros":70988,"calls":["get_user",{"micros":12426},"get_guilds",{"micros":8568},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":4},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":584},"apex_experiments",{"micros":66268},"user_activities",{"micros":4},"played_application_ids",{"micros":2},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":33,"calls":[]},"presence_started",{"micros":414,"calls":[]},"guilds_started",{"micros":60,"calls":[]},"lobbies_started",{"micros":2,"calls":[]},"guilds_connect",{"micros":0,"calls":[]},"presence_connect",{"micros":882,"calls":[]},"connect_finished",{"micros":893,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 1f9b03aa25758110259c2a85c7ed2520, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 00:30:45,296 | root | INFO | Bot is ready!
+2026-01-10 00:30:45,305 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:30:45,310 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:30:45,310 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:30:45,310 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:30:48,535 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 00:30:56,200 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 00:31:38,884 | methods.get_role_data | ERROR | Get role data function error: 'int' object has no attribute 'get_connection'
+2026-01-10 00:31:38,884 | views.inventoryView | ERROR | My roles view callback function error: 'int' object has no attribute 'release_connection'
+2026-01-10 00:31:43,661 | methods.get_role_data | ERROR | Get role data function error: 'int' object has no attribute 'get_connection'
+2026-01-10 00:31:43,661 | views.inventoryView | ERROR | My roles view callback function error: 'int' object has no attribute 'release_connection'
+2026-01-10 00:36:49,088 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:36:49,088 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:36:49,088 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:36:49,259 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:37:00,104 | root | INFO | Cogs loaded!
+2026-01-10 00:37:00,105 | disnake.client | INFO | logging in using static token
+2026-01-10 00:37:01,260 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:37:01,915 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-fbxd",{"micros":435564,"calls":["id_created",{"micros":371,"calls":[]},"session_lookup_time",{"micros":280,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-20",{"micros":434620,"calls":["start_session",{"micros":396098,"calls":["discord-api-rpc-5b74c95774-n6jjn",{"micros":150856,"calls":["get_user",{"micros":6484},"get_guilds",{"micros":7268},"send_scheduled_deletion_message",{"micros":20},"guild_join_requests",{"micros":5},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":1569},"apex_experiments",{"micros":230134},"user_activities",{"micros":5},"played_application_ids",{"micros":4},"linked_users",{"micros":10}]}]},"starting_guild_connect",{"micros":36,"calls":[]},"presence_started",{"micros":12991,"calls":[]},"guilds_started",{"micros":68,"calls":[]},"lobbies_started",{"micros":2,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":25391,"calls":[]},"connect_finished",{"micros":25404,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 468345364f38c7a935ffa1eb74ecf88d, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 00:37:03,927 | root | INFO | Bot is ready!
+2026-01-10 00:37:03,936 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:37:03,941 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:37:03,941 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:37:03,941 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:37:25,358 | views.inventoryView | ERROR | Personal role menu callback function error: This interaction has already been responded to before
+2026-01-10 00:37:29,816 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 00:39:26,675 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:39:26,675 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:39:26,676 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:39:26,819 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:39:33,394 | root | INFO | Cogs loaded!
+2026-01-10 00:39:33,394 | disnake.client | INFO | logging in using static token
+2026-01-10 00:39:34,458 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:39:34,908 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-55v8",{"micros":187567,"calls":["id_created",{"micros":552,"calls":[]},"session_lookup_time",{"micros":251,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"discord-sessions-prd-2-62",{"micros":186434,"calls":["start_session",{"micros":169496,"calls":["discord-api-rpc-5b74c95774-9tm5p",{"micros":91778,"calls":["get_user",{"micros":24391},"get_guilds",{"micros":6372},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":1166},"authorized_ip_coro",{"micros":7},"pending_payments",{"micros":2105},"apex_experiments",{"micros":66232},"user_activities",{"micros":7},"played_application_ids",{"micros":4},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":32,"calls":[]},"presence_started",{"micros":336,"calls":[]},"guilds_started",{"micros":58,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":16445,"calls":[]},"connect_finished",{"micros":16459,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":36,"calls":[]}]}]}] (Session ID: c4e2cd5d2150e895e190d30a26d33432, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 00:39:36,933 | root | INFO | Bot is ready!
+2026-01-10 00:39:36,941 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:39:36,944 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:39:36,945 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:39:36,945 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:39:46,719 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 00:40:35,757 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:40:35,757 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:40:35,757 | disnake.client | INFO | Cleaning up after 3 tasks.
+2026-01-10 00:40:35,915 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:40:43,673 | root | INFO | Cogs loaded!
+2026-01-10 00:40:43,673 | disnake.client | INFO | logging in using static token
+2026-01-10 00:40:44,923 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:40:45,652 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-12nl",{"micros":486571,"calls":["id_created",{"micros":450,"calls":[]},"session_lookup_time",{"micros":803,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-2-34",{"micros":484936,"calls":["start_session",{"micros":470733,"calls":["discord-api-rpc-5b74c95774-mw9vj",{"micros":202344,"calls":["get_user",{"micros":118794},"get_guilds",{"micros":3167},"send_scheduled_deletion_message",{"micros":23},"guild_join_requests",{"micros":145},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":578},"apex_experiments",{"micros":225280},"user_activities",{"micros":10},"played_application_ids",{"micros":4},"linked_users",{"micros":4}]}]},"starting_guild_connect",{"micros":42,"calls":[]},"presence_started",{"micros":1603,"calls":[]},"guilds_started",{"micros":55,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12477,"calls":[]},"connect_finished",{"micros":12490,"calls":[]},"build_ready",{"micros":10,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 236118e2214e372c1b8c75c740427609, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 00:40:47,666 | root | INFO | Bot is ready!
+2026-01-10 00:40:47,673 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:40:47,677 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:40:47,677 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:40:47,677 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:40:49,065 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 00:47:50,565 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:47:50,565 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:47:50,565 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:47:50,742 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:49:37,953 | root | INFO | Cogs loaded!
+2026-01-10 00:49:37,953 | disnake.client | INFO | logging in using static token
+2026-01-10 00:49:49,129 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:49:49,508 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-37vp",{"micros":181567,"calls":["id_created",{"micros":485,"calls":[]},"session_lookup_time",{"micros":2335,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-2-126",{"micros":178291,"calls":["start_session",{"micros":174603,"calls":["discord-api-rpc-5b74c95774-vk8bj",{"micros":99407,"calls":["get_user",{"micros":44986},"get_guilds",{"micros":3477},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":436},"apex_experiments",{"micros":39573},"user_activities",{"micros":6},"played_application_ids",{"micros":3},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":28,"calls":[]},"presence_started",{"micros":504,"calls":[]},"guilds_started",{"micros":60,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3025,"calls":[]},"connect_finished",{"micros":3038,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 18dd9d3a154c4f8be4c746bf36568c47, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 00:49:51,527 | root | INFO | Bot is ready!
+2026-01-10 00:49:51,527 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:49:51,527 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:49:51,527 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:49:51,527 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:49:52,532 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 00:52:32,055 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 00:52:32,055 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 00:52:32,055 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 00:52:32,217 | disnake.client | INFO | Closing the event loop.
+2026-01-10 00:52:39,896 | root | INFO | Cogs loaded!
+2026-01-10 00:52:39,896 | disnake.client | INFO | logging in using static token
+2026-01-10 00:52:40,922 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 00:52:42,640 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-9s4w",{"micros":1504821,"calls":["id_created",{"micros":466,"calls":[]},"session_lookup_time",{"micros":305,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-34",{"micros":1503586,"calls":["start_session",{"micros":1479800,"calls":["discord-api-rpc-5b74c95774-w8bk7",{"micros":188041,"calls":["get_user",{"micros":68035},"get_guilds",{"micros":3514},"send_scheduled_deletion_message",{"micros":25},"guild_join_requests",{"micros":643},"authorized_ip_coro",{"micros":16},"pending_payments",{"micros":629},"apex_experiments",{"micros":41694},"user_activities",{"micros":10},"played_application_ids",{"micros":5},"linked_users",{"micros":5}]}]},"starting_guild_connect",{"micros":38,"calls":[]},"presence_started",{"micros":509,"calls":[]},"guilds_started",{"micros":61,"calls":[]},"lobbies_started",{"micros":2,"calls":[]},"guilds_connect",{"micros":0,"calls":[]},"presence_connect",{"micros":23121,"calls":[]},"connect_finished",{"micros":23133,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 6c3ef9f7b6e828c18e5970f4f993745d, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 00:52:44,635 | root | INFO | Bot is ready!
+2026-01-10 00:52:44,635 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:52:44,635 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:52:44,635 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 00:52:44,635 | cogs.shop | INFO | Connection pool inited
+2026-01-10 00:52:49,606 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 01:00:58,269 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:00:58,269 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:00:58,269 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 01:00:58,406 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:01:05,297 | root | INFO | Cogs loaded!
+2026-01-10 01:01:05,297 | disnake.client | INFO | logging in using static token
+2026-01-10 01:01:08,041 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:01:08,370 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-4f36",{"micros":140825,"calls":["id_created",{"micros":794,"calls":[]},"session_lookup_time",{"micros":358,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-178",{"micros":139271,"calls":["start_session",{"micros":118122,"calls":["discord-api-rpc-5b74c95774-2wlnm",{"micros":50255,"calls":["get_user",{"micros":5986},"get_guilds",{"micros":4000},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":644},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":613},"apex_experiments",{"micros":59848},"user_activities",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":30,"calls":[]},"presence_started",{"micros":9812,"calls":[]},"guilds_started",{"micros":56,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11185,"calls":[]},"connect_finished",{"micros":11198,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 71cf214f5e49f1f471e52aaffb8beaa2, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 01:01:10,390 | root | INFO | Bot is ready!
+2026-01-10 01:01:10,390 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:01:10,390 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:01:10,390 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:01:10,390 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:01:16,180 | cogs.shop | ERROR | Shop command function error: local variable 'label' referenced before assignment
+2026-01-10 01:02:37,054 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:02:37,054 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:02:37,054 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 01:02:37,258 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:03:04,864 | root | INFO | Cogs loaded!
+2026-01-10 01:03:04,864 | disnake.client | INFO | logging in using static token
+2026-01-10 01:03:18,674 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:03:19,130 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-dphv",{"micros":104660,"calls":["id_created",{"micros":399,"calls":[]},"session_lookup_time",{"micros":1911,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-2-19",{"micros":101917,"calls":["start_session",{"micros":99148,"calls":["discord-api-rpc-5b74c95774-b7gzj",{"micros":48853,"calls":["get_user",{"micros":7173},"get_guilds",{"micros":2652},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":3066},"apex_experiments",{"micros":40387},"user_activities",{"micros":7},"played_application_ids",{"micros":4},"linked_users",{"micros":4}]}]},"starting_guild_connect",{"micros":28,"calls":[]},"presence_started",{"micros":349,"calls":[]},"guilds_started",{"micros":66,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":2258,"calls":[]},"connect_finished",{"micros":2270,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":39,"calls":[]}]}]}] (Session ID: d7f8233decf4e3783989dc45b6acb48a, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 01:03:21,147 | root | INFO | Bot is ready!
+2026-01-10 01:03:21,147 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:03:21,158 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:03:21,158 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:03:21,158 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:03:25,008 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 01:04:32,696 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:04:32,697 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:04:32,697 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 01:04:32,959 | disnake.client | INFO | All tasks finished cancelling.
+2026-01-10 01:04:32,960 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:04:45,449 | root | INFO | Cogs loaded!
+2026-01-10 01:04:45,449 | disnake.client | INFO | logging in using static token
+2026-01-10 01:04:51,380 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:04:51,703 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-wgcc",{"micros":96898,"calls":["id_created",{"micros":393,"calls":[]},"session_lookup_time",{"micros":409,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-31",{"micros":95798,"calls":["start_session",{"micros":82597,"calls":["discord-api-rpc-5b74c95774-m4ttq",{"micros":43767,"calls":["get_user",{"micros":9107},"get_guilds",{"micros":3918},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":542},"apex_experiments",{"micros":30753},"user_activities",{"micros":6},"played_application_ids",{"micros":3},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":28,"calls":[]},"presence_started",{"micros":3660,"calls":[]},"guilds_started",{"micros":61,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9390,"calls":[]},"connect_finished",{"micros":9403,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: df7462f07869fdd1838b5f20bc0142e3, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 01:04:53,711 | root | INFO | Bot is ready!
+2026-01-10 01:04:53,721 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:04:53,726 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:04:53,726 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:04:53,727 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:04:54,546 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 01:05:34,666 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:05:34,667 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:05:34,667 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 01:05:34,825 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:05:41,539 | root | INFO | Cogs loaded!
+2026-01-10 01:05:41,539 | disnake.client | INFO | logging in using static token
+2026-01-10 01:05:43,533 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:05:43,533 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:05:43,534 | disnake.client | INFO | Cleaning up after 5 tasks.
+2026-01-10 01:05:43,536 | disnake.client | INFO | All tasks finished cancelling.
+2026-01-10 01:05:43,536 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:05:52,745 | root | INFO | Cogs loaded!
+2026-01-10 01:05:52,745 | disnake.client | INFO | logging in using static token
+2026-01-10 01:05:55,149 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:05:55,408 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-2jvh",{"micros":106709,"calls":["id_created",{"micros":574,"calls":[]},"session_lookup_time",{"micros":329,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-86",{"micros":105515,"calls":["start_session",{"micros":95251,"calls":["discord-api-rpc-5b74c95774-jn469",{"micros":52399,"calls":["get_user",{"micros":23653},"get_guilds",{"micros":4103},"send_scheduled_deletion_message",{"micros":21},"guild_join_requests",{"micros":496},"authorized_ip_coro",{"micros":13},"pending_payments",{"micros":534},"apex_experiments",{"micros":35156},"user_activities",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":36,"calls":[]},"presence_started",{"micros":424,"calls":[]},"guilds_started",{"micros":65,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9678,"calls":[]},"connect_finished",{"micros":9691,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 043b9961cd93c026c8f47aac1e7c7939, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 01:05:57,435 | root | INFO | Bot is ready!
+2026-01-10 01:05:57,442 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:05:57,447 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:05:57,448 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:05:57,448 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:06:00,303 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 01:06:30,529 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:06:30,529 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:06:30,529 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 01:06:30,692 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:06:38,561 | root | INFO | Cogs loaded!
+2026-01-10 01:06:38,561 | disnake.client | INFO | logging in using static token
+2026-01-10 01:07:10,986 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:07:11,486 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-9p2v",{"micros":158087,"calls":["id_created",{"micros":795,"calls":[]},"session_lookup_time",{"micros":1045,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"discord-sessions-prd-2-57",{"micros":155870,"calls":["start_session",{"micros":150168,"calls":["discord-api-rpc-5b74c95774-sd2wh",{"micros":67865,"calls":["get_user",{"micros":22864},"get_guilds",{"micros":3554},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":562},"apex_experiments",{"micros":67863},"user_activities",{"micros":7},"played_application_ids",{"micros":3},"linked_users",{"micros":10}]}]},"starting_guild_connect",{"micros":32,"calls":[]},"presence_started",{"micros":4236,"calls":[]},"guilds_started",{"micros":61,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1312,"calls":[]},"connect_finished",{"micros":1324,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":35,"calls":[]}]}]}] (Session ID: 857ddd4151014778f7ae66a8e702cf11, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 01:07:13,494 | root | INFO | Bot is ready!
+2026-01-10 01:07:13,501 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:07:13,506 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:07:13,506 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:07:13,506 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:07:17,159 | cogs.shop | ERROR | Shop command function error: list index out of range
+2026-01-10 01:11:52,092 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:11:52,092 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:11:52,092 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 01:11:52,249 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:11:59,783 | root | INFO | Cogs loaded!
+2026-01-10 01:11:59,784 | disnake.client | INFO | logging in using static token
+2026-01-10 01:12:02,979 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:12:03,334 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-58n1",{"micros":119506,"calls":["id_created",{"micros":527,"calls":[]},"session_lookup_time",{"micros":489,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-188",{"micros":117262,"calls":["start_session",{"micros":100520,"calls":["discord-api-rpc-5b74c95774-gdxd2",{"micros":62757,"calls":["get_user",{"micros":8052},"get_guilds",{"micros":8239},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":2035},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":1410},"apex_experiments",{"micros":27302},"user_activities",{"micros":5},"played_application_ids",{"micros":4},"linked_users",{"micros":2}]}]},"starting_guild_connect",{"micros":29,"calls":[]},"presence_started",{"micros":4228,"calls":[]},"guilds_started",{"micros":60,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12345,"calls":[]},"connect_finished",{"micros":12361,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: c4fce1c8f5fdbcdcf1fea6a63be280cb, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 01:12:05,353 | root | INFO | Bot is ready!
+2026-01-10 01:12:05,363 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:12:05,367 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:12:05,367 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:12:05,367 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:13:35,696 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:13:35,696 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:13:35,696 | disnake.client | INFO | Cleaning up after 2 tasks.
+2026-01-10 01:13:35,836 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:13:50,199 | root | INFO | Cogs loaded!
+2026-01-10 01:13:50,201 | disnake.client | INFO | logging in using static token
+2026-01-10 01:14:02,341 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:14:02,904 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-tzz6",{"micros":128030,"calls":["id_created",{"micros":436,"calls":[]},"session_lookup_time",{"micros":698,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-2-30",{"micros":126182,"calls":["start_session",{"micros":116654,"calls":["discord-api-rpc-5b74c95774-pcnh7",{"micros":81034,"calls":["get_user",{"micros":5781},"get_guilds",{"micros":28329},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":638},"apex_experiments",{"micros":27426},"user_activities",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":34,"calls":[]},"presence_started",{"micros":2627,"calls":[]},"guilds_started",{"micros":53,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6744,"calls":[]},"connect_finished",{"micros":6758,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 0a43b764856168b8fbef07b7e9828b21, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 01:14:04,932 | root | INFO | Bot is ready!
+2026-01-10 01:14:04,942 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:14:04,950 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:14:04,950 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:14:04,950 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:16:59,050 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:16:59,050 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:16:59,050 | disnake.client | INFO | Cleaning up after 2 tasks.
+2026-01-10 01:16:59,224 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:17:05,779 | root | INFO | Cogs loaded!
+2026-01-10 01:17:05,780 | disnake.client | INFO | logging in using static token
+2026-01-10 01:17:27,737 | disnake.client | ERROR | Attempting a reconnect in 0.57s
+Traceback (most recent call last):
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\asyncio\tasks.py", line 476, in wait_for
+    return fut.result()
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\aiohttp\client.py", line 821, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 525, message='Invalid response status', url=URL('wss://gateway.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2026-01-10 01:17:28,811 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:17:29,330 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-qs24",{"micros":94618,"calls":["id_created",{"micros":411,"calls":[]},"session_lookup_time",{"micros":210,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-prd-2-3",{"micros":92798,"calls":["start_session",{"micros":86027,"calls":["discord-api-rpc-d59d9966b-gpnl6",{"micros":43748,"calls":["get_user",{"micros":9966},"get_guilds",{"micros":3470},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":397},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":608},"apex_experiments",{"micros":32415},"user_activities",{"micros":5},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":4}]}]},"starting_guild_connect",{"micros":37,"calls":[]},"presence_started",{"micros":976,"calls":[]},"guilds_started",{"micros":63,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":5616,"calls":[]},"connect_finished",{"micros":5631,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":48,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: dcd3bb96d4c47932537b76268115c097, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 01:17:31,346 | root | INFO | Bot is ready!
+2026-01-10 01:17:31,381 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:17:31,400 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:17:31,402 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:17:31,403 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:18:52,882 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:18:52,884 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:18:52,884 | disnake.client | INFO | Cleaning up after 2 tasks.
+2026-01-10 01:18:53,062 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:19:00,849 | root | INFO | Cogs loaded!
+2026-01-10 01:19:00,849 | disnake.client | INFO | logging in using static token
+2026-01-10 01:19:02,804 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:19:03,156 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-55v8",{"micros":163233,"calls":["id_created",{"micros":651,"calls":[]},"session_lookup_time",{"micros":328,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-152",{"micros":161985,"calls":["start_session",{"micros":149697,"calls":["discord-api-rpc-d59d9966b-cj8dz",{"micros":83758,"calls":["get_user",{"micros":38916},"get_guilds",{"micros":3158},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":598},"apex_experiments",{"micros":39627},"user_activities",{"micros":7},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":5}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":1727,"calls":[]},"guilds_started",{"micros":69,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10381,"calls":[]},"connect_finished",{"micros":10396,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":45,"calls":[]}]}]}] (Session ID: 0a1ab71979fc2716d08ae21d677bc98f, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 01:19:05,168 | root | INFO | Bot is ready!
+2026-01-10 01:19:05,176 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:19:05,180 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:19:05,181 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:19:05,181 | cogs.shop | INFO | Connection pool inited
+2026-01-10 01:19:40,598 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 01:19:40,598 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 01:19:40,598 | disnake.client | INFO | Cleaning up after 2 tasks.
+2026-01-10 01:19:40,723 | disnake.client | INFO | Closing the event loop.
+2026-01-10 01:19:47,705 | root | INFO | Cogs loaded!
+2026-01-10 01:19:47,707 | disnake.client | INFO | logging in using static token
+2026-01-10 01:19:49,777 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 01:19:50,096 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-dl3v",{"micros":102488,"calls":["id_created",{"micros":452,"calls":[]},"session_lookup_time",{"micros":253,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-12",{"micros":100763,"calls":["start_session",{"micros":92809,"calls":["discord-api-rpc-5b74c95774-tgjm6",{"micros":52386,"calls":["get_user",{"micros":6583},"get_guilds",{"micros":3685},"send_scheduled_deletion_message",{"micros":24},"guild_join_requests",{"micros":480},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":642},"apex_experiments",{"micros":31737},"user_activities",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":3}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":372,"calls":[]},"guilds_started",{"micros":78,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7381,"calls":[]},"connect_finished",{"micros":7396,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":9,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 6b4084286ea0d7b6d5b8479dc7d2926b, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 01:19:52,134 | root | INFO | Bot is ready!
+2026-01-10 01:19:52,143 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:19:52,148 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:19:52,149 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 01:19:52,149 | cogs.shop | INFO | Connection pool inited
+2026-01-10 12:50:21,078 | root | INFO | Cogs loaded!
+2026-01-10 12:50:21,078 | disnake.client | INFO | logging in using static token
+2026-01-10 12:50:43,246 | disnake.client | ERROR | Attempting a reconnect in 1.79s
+Traceback (most recent call last):
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\asyncio\tasks.py", line 476, in wait_for
+    return fut.result()
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\aiohttp\client.py", line 821, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 525, message='Invalid response status', url=URL('wss://gateway.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2026-01-10 12:50:45,377 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 12:50:45,738 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-lj3m",{"micros":148388,"calls":["id_created",{"micros":513,"calls":[]},"session_lookup_time",{"micros":3772,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-25",{"micros":142250,"calls":["start_session",{"micros":89302,"calls":["discord-api-rpc-77cb85cc97-rvk9k",{"micros":48104,"calls":["get_user",{"micros":4787},"get_guilds",{"micros":13125},"send_scheduled_deletion_message",{"micros":25},"guild_join_requests",{"micros":4},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":611},"apex_experiments",{"micros":33808},"user_activities",{"micros":5},"played_application_ids",{"micros":3},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":9}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":9007,"calls":[]},"guilds_started",{"micros":59,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":43813,"calls":[]},"connect_finished",{"micros":43825,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":11,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 156dddb8324a8d67cda9baefc1ebbe00, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 12:50:47,761 | root | INFO | Bot is ready!
+2026-01-10 12:50:47,761 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:50:47,761 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:50:47,761 | cogs.shop | INFO | Connection pool inited
+2026-01-10 12:50:47,761 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:51:54,661 | methods.unequip_role | ERROR | Equip role function error: Incorrect number of bindings supplied. The current statement uses 1, and there are 2 supplied.
+2026-01-10 12:52:53,927 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 12:52:53,927 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 12:52:53,927 | disnake.client | INFO | Cleaning up after 7 tasks.
+2026-01-10 12:52:54,068 | disnake.client | INFO | Closing the event loop.
+2026-01-10 12:53:03,831 | root | INFO | Cogs loaded!
+2026-01-10 12:53:03,831 | disnake.client | INFO | logging in using static token
+2026-01-10 12:53:26,164 | disnake.client | ERROR | Attempting a reconnect in 1.13s
+Traceback (most recent call last):
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\asyncio\tasks.py", line 476, in wait_for
+    return fut.result()
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\aiohttp\client.py", line 821, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 525, message='Invalid response status', url=URL('wss://gateway.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2026-01-10 12:53:27,610 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 12:53:27,879 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-vwcl",{"micros":92308,"calls":["id_created",{"micros":442,"calls":[]},"session_lookup_time",{"micros":768,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-prd-2-92",{"micros":90367,"calls":["start_session",{"micros":78454,"calls":["discord-api-rpc-77cb85cc97-bbdhf",{"micros":41986,"calls":["get_user",{"micros":5205},"get_guilds",{"micros":2133},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":1459},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":584},"apex_experiments",{"micros":29022},"user_activities",{"micros":14},"played_application_ids",{"micros":4},"linked_users",{"micros":2},"ad_personalization_toggles_disabled",{"micros":3}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":258,"calls":[]},"guilds_started",{"micros":50,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11543,"calls":[]},"connect_finished",{"micros":11557,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 709be7d0c689909ff75792e1f778bd96, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 12:53:29,897 | root | INFO | Bot is ready!
+2026-01-10 12:53:29,913 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:53:29,950 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:53:29,950 | cogs.shop | INFO | Connection pool inited
+2026-01-10 12:53:29,950 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:54:30,581 | views.inventoryView | ERROR | Personal role menu callback function error: This interaction has already been responded to before
+2026-01-10 12:56:57,550 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 12:56:57,550 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 12:56:57,550 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 12:56:57,737 | disnake.client | INFO | Closing the event loop.
+2026-01-10 12:57:07,369 | root | INFO | Cogs loaded!
+2026-01-10 12:57:07,369 | disnake.client | INFO | logging in using static token
+2026-01-10 12:57:19,356 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 12:57:19,894 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-c-tn79",{"micros":222544,"calls":["id_created",{"micros":706,"calls":[]},"session_lookup_time",{"micros":954,"calls":[]},"session_lookup_finished",{"micros":9,"calls":[]},"discord-sessions-prd-2-98",{"micros":220621,"calls":["start_session",{"micros":208100,"calls":["discord-api-rpc-77cb85cc97-txwfb",{"micros":154678,"calls":["get_user",{"micros":35305},"get_guilds",{"micros":5832},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":845},"apex_experiments",{"micros":38505},"user_activities",{"micros":8},"played_application_ids",{"micros":10},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":3}]}]},"starting_guild_connect",{"micros":54,"calls":[]},"presence_started",{"micros":3283,"calls":[]},"guilds_started",{"micros":62,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9090,"calls":[]},"connect_finished",{"micros":9107,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 16697f3a6d55f735a9e446d5f56f0441, Resume URL: wss://gateway-us-east1-c.discord.gg).
+2026-01-10 12:57:21,916 | root | INFO | Bot is ready!
+2026-01-10 12:57:21,916 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:57:21,932 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:57:21,932 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 12:57:21,932 | cogs.shop | INFO | Connection pool inited
+2026-01-10 12:58:56,041 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 12:58:56,041 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 12:58:56,041 | disnake.client | INFO | Cleaning up after 6 tasks.
+2026-01-10 12:58:56,250 | disnake.client | INFO | Closing the event loop.
+2026-01-10 13:06:12,267 | root | INFO | Cogs loaded!
+2026-01-10 13:06:12,267 | disnake.client | INFO | logging in using static token
+2026-01-10 13:06:34,368 | disnake.client | ERROR | Attempting a reconnect in 0.51s
+Traceback (most recent call last):
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\asyncio\tasks.py", line 476, in wait_for
+    return fut.result()
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\aiohttp\client.py", line 821, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 525, message='Invalid response status', url=URL('wss://gateway.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2026-01-10 13:06:35,320 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 13:06:35,701 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-kcxh",{"micros":164168,"calls":["id_created",{"micros":383,"calls":[]},"session_lookup_time",{"micros":281,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-2-67",{"micros":162987,"calls":["start_session",{"micros":137580,"calls":["discord-api-rpc-77cb85cc97-26ft5",{"micros":70052,"calls":["get_user",{"micros":17394},"get_guilds",{"micros":2868},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":1584},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":876},"apex_experiments",{"micros":56672},"user_activities",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":7},"ad_personalization_toggles_disabled",{"micros":6}]}]},"starting_guild_connect",{"micros":54,"calls":[]},"presence_started",{"micros":7587,"calls":[]},"guilds_started",{"micros":74,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":17664,"calls":[]},"connect_finished",{"micros":17678,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: cfa82c743be544050bc4fa886113b0d6, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 13:06:37,694 | root | INFO | Bot is ready!
+2026-01-10 13:06:37,704 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:06:37,709 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:06:37,709 | cogs.shop | INFO | Connection pool inited
+2026-01-10 13:06:37,710 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:07:13,826 | methods.get_role_data | ERROR | Get role data function error: 'int' object has no attribute 'get_connection'
+2026-01-10 13:07:13,826 | views.inventoryView | ERROR | My roles view callback function error: 'int' object has no attribute 'release_connection'
+2026-01-10 13:07:19,933 | methods.get_role_data | ERROR | Get role data function error: 'int' object has no attribute 'get_connection'
+2026-01-10 13:07:19,933 | views.inventoryView | ERROR | My roles view callback function error: 'int' object has no attribute 'release_connection'
+2026-01-10 13:07:26,624 | methods.get_role_data | ERROR | Get role data function error: 'int' object has no attribute 'get_connection'
+2026-01-10 13:07:26,624 | views.inventoryView | ERROR | My roles view callback function error: 'int' object has no attribute 'release_connection'
+2026-01-10 13:11:57,492 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 13:11:57,492 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 13:11:57,492 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 13:11:57,662 | disnake.client | INFO | Closing the event loop.
+2026-01-10 13:12:04,416 | root | INFO | Cogs loaded!
+2026-01-10 13:12:04,416 | disnake.client | INFO | logging in using static token
+2026-01-10 13:12:16,530 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 13:12:17,109 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-d-130q",{"micros":161536,"calls":["id_created",{"micros":337,"calls":[]},"session_lookup_time",{"micros":209,"calls":[]},"session_lookup_finished",{"micros":9,"calls":[]},"discord-sessions-prd-2-18",{"micros":160693,"calls":["start_session",{"micros":130773,"calls":["discord-api-rpc-77cb85cc97-gjgr2",{"micros":98203,"calls":["get_user",{"micros":12397},"get_guilds",{"micros":3790},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":629},"apex_experiments",{"micros":26112},"user_activities",{"micros":5},"played_application_ids",{"micros":3},"linked_users",{"micros":1},"ad_personalization_toggles_disabled",{"micros":1}]}]},"starting_guild_connect",{"micros":52,"calls":[]},"presence_started",{"micros":5006,"calls":[]},"guilds_started",{"micros":68,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":0,"calls":[]},"presence_connect",{"micros":24765,"calls":[]},"connect_finished",{"micros":24778,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 1e4d62ffdb6f5f84e3be538913efe78d, Resume URL: wss://gateway-us-east1-d.discord.gg).
+2026-01-10 13:12:19,117 | root | INFO | Bot is ready!
+2026-01-10 13:12:19,117 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:12:19,132 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:12:19,132 | cogs.shop | INFO | Connection pool inited
+2026-01-10 13:12:19,132 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:12:38,642 | methods.delete_role | ERROR | Delete role function error: 'tuple' object has no attribute 'send'
+2026-01-10 13:14:15,488 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 13:14:15,488 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 13:14:15,488 | disnake.client | INFO | Cleaning up after 5 tasks.
+2026-01-10 13:14:15,666 | disnake.client | INFO | Closing the event loop.
+2026-01-10 13:14:22,488 | root | INFO | Cogs loaded!
+2026-01-10 13:14:22,488 | disnake.client | INFO | logging in using static token
+2026-01-10 13:14:45,068 | disnake.client | ERROR | Attempting a reconnect in 0.36s
+Traceback (most recent call last):
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\client.py", line 933, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\asyncio\tasks.py", line 476, in wait_for
+    return fut.result()
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\gateway.py", line 422, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\disnake\http.py", line 263, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\shoot\AppData\Local\Programs\Python\Python39-32\lib\site-packages\aiohttp\client.py", line 821, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 525, message='Invalid response status', url=URL('wss://gateway.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2026-01-10 13:14:55,948 | disnake.gateway | INFO | Shard ID None has sent the IDENTIFY payload.
+2026-01-10 13:14:56,528 | disnake.gateway | INFO | Shard ID None has connected to Gateway: ["gateway-prd-arm-us-east1-b-cqlp",{"micros":116482,"calls":["id_created",{"micros":495,"calls":[]},"session_lookup_time",{"micros":318,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-prd-2-46",{"micros":115336,"calls":["start_session",{"micros":105890,"calls":["discord-api-rpc-77cb85cc97-995t8",{"micros":56002,"calls":["get_user",{"micros":7171},"get_guilds",{"micros":3065},"send_scheduled_deletion_message",{"micros":44},"guild_join_requests",{"micros":725},"authorized_ip_coro",{"micros":18},"pending_payments",{"micros":842},"apex_experiments",{"micros":38685},"user_activities",{"micros":8},"played_application_ids",{"micros":5},"linked_users",{"micros":5},"ad_personalization_toggles_disabled",{"micros":4}]}]},"starting_guild_connect",{"micros":47,"calls":[]},"presence_started",{"micros":234,"calls":[]},"guilds_started",{"micros":72,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":0,"calls":[]},"presence_connect",{"micros":9061,"calls":[]},"connect_finished",{"micros":9076,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 7d84de264935b373e32a32d2f3a855aa, Resume URL: wss://gateway-us-east1-b.discord.gg).
+2026-01-10 13:14:58,552 | root | INFO | Bot is ready!
+2026-01-10 13:14:58,564 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:14:58,569 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:14:58,569 | cogs.shop | INFO | Connection pool inited
+2026-01-10 13:14:58,570 | methods.settings | INFO | Connection pool inititalized
+2026-01-10 13:15:18,762 | views.shopView | ERROR | Check balance function error: '<' not supported between instances of 'list' and 'NoneType'
+2026-01-10 13:18:29,794 | disnake.client | INFO | Received signal to terminate bot and event loop.
+2026-01-10 13:18:29,794 | disnake.client | INFO | Cleaning up tasks.
+2026-01-10 13:18:29,794 | disnake.client | INFO | Cleaning up after 1 tasks.
+2026-01-10 13:18:29,910 | disnake.client | INFO | Closing the event loop.
